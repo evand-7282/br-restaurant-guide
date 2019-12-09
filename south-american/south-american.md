@@ -2,7 +2,7 @@
 ## South American
 ---
 Select a specific South American food:
-## [Mexican](mexican.md)
-## [Puerto Rican](south-american.md)
+## [Mexican](south-american/mexican.md)
+## [Puerto Rican](south-american/puerto-rican.md)
 ---
 [Start Over](../home.md)
